@@ -1,0 +1,5 @@
+---Models in module 'amount_to_text2'---
+---Fields in module 'amount_to_text2'---
+---XML records in module 'amount_to_text2'---
+----------------------------------------------------------------
+DEPENDS 
